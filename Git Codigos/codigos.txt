@@ -1,0 +1,9 @@
+git init
+git add *
+ls
+echo
+git commit -m ""
+git push
+git pull
+cd
+cd ..
